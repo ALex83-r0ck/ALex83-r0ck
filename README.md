@@ -53,23 +53,23 @@ model = tf.keras.Sequential([...])
 Hier findest du eine Auswahl meiner Projekte – von kleinen Experimenten über Tools bis hin zu vollwertigen Anwendungen.  
 Die meisten Projekte entstanden während meiner Umschulung oder als persönliche Lern- und Praxisprojekte.
 
-| Status | Projekt | Beschreibung | Tech Stack |
-|:------:|----------|---------------|-------------|
-| ✅ | 🎂 **BirthdaySchatz** | Interaktive Geburtstags-App mit Lottie-Animationen, Gutschein-Spiel & Alarmfunktion. | Kotlin · Jetpack Compose · Lottie |
-| ✅ | 🤖 **Abby** | Einfaches Python-Script mit Pygame – entwickelt für meine Tochter als kleine Spielerei. | Python · Pygame |
-| ✅ | 🕶️ **Ozzy Tribute Page** | Lokale Website als Tribute für den *Prince of Darkness* – Zitate, Quiz mit Highscore & Konzertlinks. | HTML · CSS · JS  |
-| ✅ | 🧩 **Fun HTML** | Kleine Sammlung von spielerischen Frontend-Experimenten (HTML/CSS/JS). | HTML · CSS · JS |
-| ⚙️ | 🦌 **DeerSecure** | Tool zur Erkennung & Isolierung von Schadsoftware – Analyse, Quarantäne & Logging. | Python · KivyMD · Security APIs |
-| ⚙️ | 📊 **Dashboard** | Zentrales Tool zur Organisation meiner Umschulung (Projektübersicht, Fortschritt, Termine). | Python · Kivy/Kivymd  |
-| ⚙️ | 🧠 **Bewerbungsautomator** | Semi-automatisches Tool zur Stellensuche & Bewerbungserstellung inkl. Scraping & Template-System. | Python · Selenium · BeautifulSoup · Kivy/Kivymd |
-| ⚙️ | 🎧 **VibeVault** | Tracking-App für Nicotine Pouches mit Gamification, KI-Auswertung & Gesundheitsstatistik. | Kotlin · Jetpack Compose · TensorFlow · Python |
-| ⚙️ | 🧘 **Pax-Mantis** | App zur Unterstützung bei Angststörungen mit Atemübungen, Einschlafhilfe & Sorgenstuhl. | Kotlin · Jetpack Compose |
-| ⚙️ | 📚 **LernBuddy** | App-Idee zur Lernbegleitung mit KI-Tutor & personalisierten Fragen zur Vorbereitung auf die AP2. | Python · KivyMD |
-| ⚙️ | 📋 **Protokolli** | App zur Erstellung automatischer Lärmprotokolle mit PDF-Export & Charts. | Python · KivyMD · Matplotlib · ReportLab |
-| 🚧 | 🧱 **Abschlussprojekt IHK (WordPress Plugin)** | Geplantes IHK-Abschlussprojekt: WordPress-Plugin in PHP & JS zur Automatisierung von Website-Prozessen. | PHP · JS · WordPress · XAMPP |
-| ❌ | 🧩 **Fun HTML (alt)** | Alte Frontend-Spielereien, nicht weiterentwickelt. | HTML · CSS |
+| Status | Projekt | Beschreibung | Tech Stack | Link |
+|:------:|----------|---------------|-------------|------|
+| ✅ | 🎂 **BirthdaySchatz** | Interaktive Geburtstags-App mit Lottie-Animationen, Gutschein-Spiel & Alarmfunktion. | Kotlin · Jetpack Compose · Lottie | [GitHub](https://github.com/ALex83-r0ck/BirthdaySchatz) |
+| ✅ | 🤖 **Abby** | Einfaches Python-Script mit Pygame – entwickelt für meine Tochter als kleine Spielerei. | Python · Pygame | [GitHub](https://github.com/ALex83-r0ck/Abby) |
+| ✅ | 🕶️ **Ozzy Tribute Page** | Lokale Website als Tribute für den *Prince of Darkness* – Zitate, Quiz mit Highscore & Konzertlinks. | HTML · CSS · JS | [GitHub](https://github.com/ALex83-r0ck/Tribute-to-Ozzy-Osbourne) |
+| ✅ | 🧩 **Fun HTML** | Kleine Sammlung von spielerischen Frontend-Experimenten (HTML/CSS/JS). | HTML · CSS · JS | – |
+| ⚙️ | 🦌 **DeerSecure** | Tool zur Erkennung & Isolierung von Schadsoftware – Analyse, Quarantäne & Logging. | Python · KivyMD · Security APIs · JSON | [GitHub](https://github.com/ALex83-r0ck/DeerSecure) |
+| ⚙️ | 📊 **Dashboard** | Zentrales Tool zur Organisation meiner Umschulung (Projektübersicht, Fortschritt, Termine). | Python · Kivy/KivyMD · MySQL · JSON | [GitHub](https://github.com/ALex83-r0ck/Dashboard) |
+| ⚙️ | 🧠 **Bewerbungsautomator** | Semi-automatisches Tool zur Stellensuche & Bewerbungserstellung inkl. Scraping & Template-System. | Python · Selenium · BeautifulSoup · Kivy/KivyMD · JSON · MySQL | [GitHub](https://github.com/ALex83-r0ck/Bewerbungsautomator) |
+| ⚙️ | 🎧 **VibeVault** | Tracking-App für Nicotine Pouches mit Gamification, KI-Auswertung & Gesundheitsstatistik. | Kotlin · Jetpack Compose · TensorFlow · Python · JSON · MySQL | [GitHub](https://github.com/ALex83-r0ck/Vibe-Vault) |
+| ⚙️ | 🧘 **Pax-Mantis** | App zur Unterstützung bei Angststörungen mit Atemübungen, Einschlafhilfe & Sorgenstuhl. | Kotlin · Jetpack Compose · JSON | [GitHub](https://github.com/ALex83-r0ck/Pax-Mantis) |
+| ⚙️ | 📚 **LernBuddy** | App-Idee zur Lernbegleitung mit KI-Tutor & personalisierten Fragen zur Vorbereitung auf die AP2. | Python · Kivy/KivyMD · JSON | [GitHub](https://github.com/ALex83-r0ck/Lernbuddy) |
+| ⚙️ | 📋 **Protokolli** | App zur Erstellung automatischer Lärmprotokolle mit PDF-Export & Charts. | Python · KivyMD · Matplotlib · ReportLab · MySQL · JSON | [GitHub](https://github.com/ALex83-r0ck/Protolkoli) |
+| 🚧 | 🧱 **Abschlussprojekt IHK (WordPress Plugin)** | Geplantes IHK-Abschlussprojekt: WordPress-Plugin in PHP & JS zur Automatisierung von Website-Prozessen. | PHP · JS · WordPress · XAMPP · MySQL | – |
+| ❌ | 🧩 **Fun HTML (alt)** | Alte Frontend-Spielereien, nicht weiterentwickelt. | HTML · CSS | – |
 
----
+
 
 ## 🧰 Tech Stack
 
