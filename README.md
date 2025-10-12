@@ -57,14 +57,14 @@ Die meisten Projekte entstanden während meiner Umschulung oder als persönliche
 |:------:|----------|---------------|-------------|
 | ✅ | 🎂 **BirthdaySchatz** | Interaktive Geburtstags-App mit Lottie-Animationen, Gutschein-Spiel & Alarmfunktion. | Kotlin · Jetpack Compose · Lottie |
 | ✅ | 🤖 **Abby** | Einfaches Python-Script mit Pygame – entwickelt für meine Tochter als kleine Spielerei. | Python · Pygame |
-| ✅ | 🕶️ **Ozzy Tribute Page** | Lokale Website als Tribute für den *Prince of Darkness* – Zitate, Quiz mit Highscore & Konzertlinks. | HTML · CSS · JS · XAMPP |
+| ✅ | 🕶️ **Ozzy Tribute Page** | Lokale Website als Tribute für den *Prince of Darkness* – Zitate, Quiz mit Highscore & Konzertlinks. | HTML · CSS · JS  |
 | ✅ | 🧩 **Fun HTML** | Kleine Sammlung von spielerischen Frontend-Experimenten (HTML/CSS/JS). | HTML · CSS · JS |
 | ⚙️ | 🦌 **DeerSecure** | Tool zur Erkennung & Isolierung von Schadsoftware – Analyse, Quarantäne & Logging. | Python · KivyMD · Security APIs |
-| ⚙️ | 📊 **Dashboard** | Zentrales Tool zur Organisation meiner Umschulung (Projektübersicht, Fortschritt, Termine). | Python · Flask · Bootstrap · XAMPP |
-| ⚙️ | 🧠 **Bewerbungsautomator** | Semi-automatisches Tool zur Stellensuche & Bewerbungserstellung inkl. Scraping & Template-System. | Python · Selenium · BeautifulSoup · XAMPP |
-| ⚙️ | 🎧 **VibeVault** | Tracking-App für Nicotine Pouches mit Gamification, KI-Auswertung & Gesundheitsstatistik. | Python · KivyMD · TensorFlow |
+| ⚙️ | 📊 **Dashboard** | Zentrales Tool zur Organisation meiner Umschulung (Projektübersicht, Fortschritt, Termine). | Python · Kivy/Kivymd  |
+| ⚙️ | 🧠 **Bewerbungsautomator** | Semi-automatisches Tool zur Stellensuche & Bewerbungserstellung inkl. Scraping & Template-System. | Python · Selenium · BeautifulSoup · Kivy/Kivymd |
+| ⚙️ | 🎧 **VibeVault** | Tracking-App für Nicotine Pouches mit Gamification, KI-Auswertung & Gesundheitsstatistik. | Kotlin · Jetpack Compose · TensorFlow · Python |
 | ⚙️ | 🧘 **Pax-Mantis** | App zur Unterstützung bei Angststörungen mit Atemübungen, Einschlafhilfe & Sorgenstuhl. | Kotlin · Jetpack Compose |
-| ⚙️ | 📚 **LernBuddy** | App-Idee zur Lernbegleitung mit KI-Tutor & personalisierten Fragen zur Vorbereitung auf die AP2. | Python · KivyMD · OpenAI API |
+| ⚙️ | 📚 **LernBuddy** | App-Idee zur Lernbegleitung mit KI-Tutor & personalisierten Fragen zur Vorbereitung auf die AP2. | Python · KivyMD |
 | ⚙️ | 📋 **Protokolli** | App zur Erstellung automatischer Lärmprotokolle mit PDF-Export & Charts. | Python · KivyMD · Matplotlib · ReportLab |
 | 🚧 | 🧱 **Abschlussprojekt IHK (WordPress Plugin)** | Geplantes IHK-Abschlussprojekt: WordPress-Plugin in PHP & JS zur Automatisierung von Website-Prozessen. | PHP · JS · WordPress · XAMPP |
 | ❌ | 🧩 **Fun HTML (alt)** | Alte Frontend-Spielereien, nicht weiterentwickelt. | HTML · CSS |
