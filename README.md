@@ -60,12 +60,12 @@ Die meisten Projekte entstanden während meiner Umschulung oder als persönliche
 | ✅ | 🕶️ **Ozzy Tribute Page** | Lokale Website als Tribute für den *Prince of Darkness* – Zitate, Quiz mit Highscore & Konzertlinks. | HTML · CSS · JS | [GitHub](https://github.com/ALex83-r0ck/Tribute-to-Ozzy-Osbourne) |
 | ✅ | 🧩 **Fun HTML** | Kleine Sammlung von spielerischen Frontend-Experimenten (HTML/CSS/JS). | HTML · CSS · JS | – |
 | ⚙️ | 🦌 **DeerSecure** | Tool zur Erkennung & Isolierung von Schadsoftware – Analyse, Quarantäne & Logging. | Python · KivyMD · Security APIs · JSON | [GitHub](https://github.com/ALex83-r0ck/DeerSecure) |
-| ⚙️ | 📊 **Dashboard** | Zentrales Tool zur Organisation meiner Umschulung (Projektübersicht, Fortschritt, Termine). | Python · Kivy/KivyMD · MySQL · JSON | [GitHub](https://github.com/ALex83-r0ck/Dashboard) |
-| ⚙️ | 🧠 **Bewerbungsautomator** | Semi-automatisches Tool zur Stellensuche & Bewerbungserstellung inkl. Scraping & Template-System. | Python · Selenium · BeautifulSoup · Kivy/KivyMD · JSON · MySQL | [GitHub](https://github.com/ALex83-r0ck/Bewerbungsautomator) |
-| ⚙️ | 🎧 **VibeVault** | Tracking-App für Nicotine Pouches mit Gamification, KI-Auswertung & Gesundheitsstatistik. | Kotlin · Jetpack Compose · TensorFlow · Python · JSON · MySQL | [GitHub](https://github.com/ALex83-r0ck/Vibe-Vault) |
+| ⚙️ | 📊 **Dashboard** | Zentrales Tool zur Organisation meiner Umschulung (Projektübersicht, Fortschritt, Termine). | Python · Kivy/KivyMD · SQLite · JSON | [GitHub](https://github.com/ALex83-r0ck/Dashboard) |
+| ⚙️ | 🧠 **Bewerbungsautomator** | Semi-automatisches Tool zur Stellensuche & Bewerbungserstellung inkl. Scraping & Template-System. | Python · Selenium · BeautifulSoup · Kivy/KivyMD · JSON · SQLite | [GitHub](https://github.com/ALex83-r0ck/Bewerbungsautomator) |
+| ⚙️ | 🎧 **VibeVault** | Tracking-App für Nicotine Pouches mit Gamification, KI-Auswertung & Gesundheitsstatistik. | Kotlin · Jetpack Compose · TensorFlow · Python | [GitHub](https://github.com/ALex83-r0ck/Vibe-Vault) |
 | ⚙️ | 🧘 **Pax-Mantis** | App zur Unterstützung bei Angststörungen mit Atemübungen, Einschlafhilfe & Sorgenstuhl. | Kotlin · Jetpack Compose · JSON | [GitHub](https://github.com/ALex83-r0ck/Pax-Mantis) |
 | ⚙️ | 📚 **LernBuddy** | App-Idee zur Lernbegleitung mit KI-Tutor & personalisierten Fragen zur Vorbereitung auf die AP2. | Python · Kivy/KivyMD · JSON | [GitHub](https://github.com/ALex83-r0ck/Lernbuddy) |
-| ⚙️ | 📋 **Protokolli** | App zur Erstellung automatischer Lärmprotokolle mit PDF-Export & Charts. | Python · KivyMD · Matplotlib · ReportLab · MySQL · JSON | [GitHub](https://github.com/ALex83-r0ck/Protolkoli) |
+| ⚙️ | 📋 **Protokolli** | App zur Erstellung automatischer Lärmprotokolle mit PDF-Export & Charts. | Python · KivyMD · Matplotlib · ReportLab · SQLite · JSON | [GitHub](https://github.com/ALex83-r0ck/Protolkoli) |
 | 🚧 | 🧱 **Abschlussprojekt IHK (WordPress Plugin)** | Geplantes IHK-Abschlussprojekt: WordPress-Plugin in PHP & JS zur Automatisierung von Website-Prozessen. | PHP · JS · WordPress · XAMPP · MySQL | – |
 | ❌ | 🧩 **Fun HTML (alt)** | Alte Frontend-Spielereien, nicht weiterentwickelt. | HTML · CSS | – |
 
