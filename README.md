@@ -74,7 +74,10 @@ Die meisten Projekte entstanden während meiner Umschulung oder als persönliche
 ## 🧰 Tech Stack
 
 **Sprachen & Frameworks:**  
-🐍 Python · ☕ Kotlin · 🐘 PHP · 🌐 HTML · 🎨 CSS · ⚡ JavaScript  
+🐍 Python · ☕ Kotlin · 🐘 PHP · ⚡ JavaScript  
+
+**Marup & Styling:**
+🌐 HTML · 🎨 CSS · 
 
 **Frameworks & Tools:**  
 🧩 Kivy/KivyMD · 🧱 Jetpack Compose · 🧠 TensorFlow · 🔥 PyTorch · ⚙️ Flask · 🪶 Bootstrap  
