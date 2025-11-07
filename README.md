@@ -76,7 +76,7 @@ Die meisten Projekte entstanden während meiner Umschulung oder als persönliche
 **Sprachen & Frameworks:**  
 🐍 Python · ☕ Kotlin · 🐘 PHP · ⚡ JavaScript  
 
-**Marup & Styling:**
+**Markup & Styling:**
 🌐 HTML · 🎨 CSS · 
 
 **Frameworks & Tools:**  
