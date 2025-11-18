@@ -15,7 +15,7 @@ Schwerpunktmäßig arbeite ich aktuell an:
 
 - Python-Anwendungen (Kivy/KivyMD, kleine Tools, Helfer-Scripts)  
 - Android-Apps mit Kotlin und Jetpack Compose  
-- Webprojekten mit HTML, CSS, JavaScript und PHP  
+- Webprojekten mit HTML, CSS, JavaScript sowie PHP, WordPress(Hooks, CPTs)  
 - Software, die Probleme löst oder Abläufe vereinfacht  
 
 Mir ist wichtig, Projekte wirklich zu verstehen – Architektur, Struktur, Debugging, Fehleranalyse.  
