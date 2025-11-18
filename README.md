@@ -1,149 +1,87 @@
-# 👋 Alexander Rothe – Fachinformatiker für Anwendungsentwicklung
+# Alexander Rothe – angehender Fachinformatiker für Anwendungsentwicklung
 
-Willkommen auf meinem GitHub-Profil!  
-Ich bin auf der Zielgeraden meiner Umschulung zum **Fachinformatiker für Anwendungsentwicklung** und programmiere seit **2008** mit Leidenschaft – angefangen mit *„Lern Python v3.0“*.  
-Nach privaten Umbrüchen widme ich mich seit zwei Jahren voll meiner Leidenschaft: **Apps, Web und KI**.  
+Hallo, ich bin Alex.  
+Ich stehe kurz vor dem Abschluss meiner Umschulung zum Fachinformatiker für Anwendungsentwicklung. Programmieren begleitet mich allerdings schon viel länger: 2008 habe ich meine ersten Schritte mit Python gemacht – damals noch mit einem Buch von Galileo Computing und einer Mischung aus Python 2 und 3. Mein Englisch war noch nicht besonders, Foren kannte ich kaum, und irgendwann bin ich an einer Stelle einfach hängen geblieben. Trotzdem hat mich das Thema nie losgelassen.
 
-Mein Fokus liegt auf **Python**, **Kotlin** und **KI-Integration**, um innovative und benutzerfreundliche Lösungen zu schaffen. 🚀
-
----
-
-## 📌 Inhaltsverzeichnis
-- [💡 Interessen](#-interessen)
-- [📚 Was ich lerne](#-was-ich-lerne)
-- [🚀 Projekte](#-projekte)
-- [🤝 Zusammenarbeit](#-zusammenarbeit)
-- [📫 Kontakt](#-kontakt)
-- [🌍 English Version](#-english-version)
+Nach einigen privaten Umwegen bin ich seit zwei Jahren wieder voll eingestiegen. Seitdem arbeite ich kontinuierlich an Projekten, lerne und verstehe jeden Tag mehr und baue mir so Schritt für Schritt meinen eigenen Werkzeugkasten auf. Vieles mache ich selbst, manches lerne ich im Austausch – und manchmal braucht es einfach Google, YouTube, Dokus und StackOverflow dazu eine menge Geduld.  
+Ich mag es, Ideen auszuarbeiten, Prototypen zu bauen und mich technisch weiterzuentwickelen.
 
 ---
 
-## 💡 Interessen
+## Interessen
 
-Ich liebe es, **sauberen und funktionalen Code** zu schreiben – egal ob für Apps oder Webprojekte.  
-Hier sind meine Schwerpunkte:
+Ich bewege mich gerne zwischen App-Entwicklung, Webprojekten und Python-Tools.  
+Schwerpunktmäßig arbeite ich aktuell an:
 
-| Interesse | Beschreibung |
-|------------|---------------|
-| 🐍 **Python** | Robuste Apps mit Kivy/KivyMD, z. B. für mobile Prototypen. |
-| 📱 **Kotlin** | Moderne Android-Apps mit Jetpack Compose. |
-| 🌐 **Webentwicklung** | Benutzerfreundliche Frontends mit HTML, CSS, JavaScript und PHP. |
-| 🧠 **KI & Deep Learning** | Erste Schritte in neuronalen Netzen und Sprachmodellen. |
-| 🤝 **Teamarbeit** | Kollaborative Projekte, um gemeinsam zu lernen und Lösungen zu entwickeln. |
+- Python-Anwendungen (Kivy/KivyMD, kleine Tools, Helfer-Scripts)  
+- Android-Apps mit Kotlin und Jetpack Compose  
+- Webprojekten mit HTML, CSS, JavaScript und PHP  
+- Software, die Probleme löst oder Abläufe vereinfacht  
+
+Mir ist wichtig, Projekte wirklich zu verstehen – Architektur, Struktur, Debugging, Fehleranalyse.  
+Ich baue nicht einfach irgendwas zusammen, sondern arbeite mich in Themen rein und lerne dabei ständig dazu.
 
 ---
 
-## 📚 Was ich lerne
+## Was ich gerade lerne
 
-Ich erweitere kontinuierlich mein Wissen in diesen Bereichen:
+- Python (von Grundlagen bis Architektur)  
+- Android-Entwicklung mit Kotlin und Compose  
+- WordPress-Entwicklung und PHP  
+- Debugging-Strategien, Softwarestruktur und sauberes Arbeiten  
+- Grundlagen von Machine Learning – Schritt für Schritt, ohne Hype  
 
-- Python und KI-Frameworks (**TensorFlow**, **PyTorch**)  
-- Mobile Entwicklung mit **Kotlin** und **Jetpack Compose**  
-- Interaktive, barrierefreie UIs für Apps und Web  
-- Fortgeschrittene **ML-Modelle** und Performance-Optimierung  
+---
 
-**Beispiel:** Erste Schritte mit TensorFlow  
-```python
-import tensorflow as tf
-model = tf.keras.Sequential([...])
-# Lernprozess: Modelltraining optimieren
-```
-## 🚀 Projekte
+## Projekte (Auswahl)
 
-Hier findest du eine Auswahl meiner Projekte – von kleinen Experimenten über Tools bis hin zu vollwertigen Anwendungen.  
-Die meisten Projekte entstanden während meiner Umschulung oder als persönliche Lern- und Praxisprojekte.
+Eine Sammlung meiner bisherigen Arbeiten. Vieles sind Lern- oder Praxisprojekte, einige nutze ich im Alltag selbst.
 
-| Status | Projekt | Beschreibung | Tech Stack | Link |
-|:------:|----------|---------------|-------------|------|
-| ✅ | 🎂 **BirthdaySchatz** | Interaktive Geburtstags-App mit Lottie-Animationen, Gutschein-Spiel & Alarmfunktion. | Kotlin · Jetpack Compose · Lottie | [GitHub](https://github.com/ALex83-r0ck/BirthdaySchatz) |
-| ✅ | 🤖 **Abby** | Einfaches Python-Script mit Pygame – entwickelt für meine Tochter als kleine Spielerei. | Python · Pygame | [GitHub](https://github.com/ALex83-r0ck/Abby) |
-| ✅ | 🕶️ **Ozzy Tribute Page** | Lokale Website als Tribute für den *Prince of Darkness* – Zitate, Quiz mit Highscore & Konzertlinks. | HTML · CSS · JS | [GitHub](https://github.com/ALex83-r0ck/Tribute-to-Ozzy-Osbourne) |
-| ✅ | 🧩 **Fun HTML** | Kleine Sammlung von spielerischen Frontend-Experimenten (HTML/CSS/JS). | HTML · CSS · JS | – |
-| ⚙️ | 🦌 **DeerSecure** | Tool zur Erkennung & Isolierung von Schadsoftware – Analyse, Quarantäne & Logging. | Python · KivyMD · Security APIs · JSON | [GitHub](https://github.com/ALex83-r0ck/DeerSecure) |
-| ⚙️ | 📊 **Dashboard** | Zentrales Tool zur Organisation meiner Umschulung (Projektübersicht, Fortschritt, Termine). | Python · Kivy/KivyMD · SQLite · JSON | [GitHub](https://github.com/ALex83-r0ck/Dashboard) |
-| ⚙️ | 🧠 **Bewerbungsautomator** | Semi-automatisches Tool zur Stellensuche & Bewerbungserstellung inkl. Scraping & Template-System. | Python · Selenium · BeautifulSoup · Kivy/KivyMD · JSON · SQLite | [GitHub](https://github.com/ALex83-r0ck/Bewerbungsautomator) |
-| ⚙️ | 🎧 **VibeVault** | Tracking-App für Nicotine Pouches mit Gamification, KI-Auswertung & Gesundheitsstatistik. | Kotlin · Jetpack Compose · TensorFlow · Python | [GitHub](https://github.com/ALex83-r0ck/Vibe-Vault) |
-| ⚙️ | 🧘 **Pax-Mantis** | App zur Unterstützung bei Angststörungen mit Atemübungen, Einschlafhilfe & Sorgenstuhl. | Kotlin · Jetpack Compose · JSON | [GitHub](https://github.com/ALex83-r0ck/Pax-Mantis) |
-| ⚙️ | 📚 **LernBuddy** | App-Idee zur Lernbegleitung mit KI-Tutor & personalisierten Fragen zur Vorbereitung auf die AP2. | Python · Kivy/KivyMD · JSON | [GitHub](https://github.com/ALex83-r0ck/Lernbuddy) |
-| ⚙️ | 📋 **Protokolli** | App zur Erstellung automatischer Lärmprotokolle mit PDF-Export & Charts. | Python · KivyMD · Matplotlib · ReportLab · SQLite · JSON | [GitHub](https://github.com/ALex83-r0ck/Protolkoli) |
-| 🚧 | 🧱 **Abschlussprojekt IHK (WordPress Plugin)** | Geplantes IHK-Abschlussprojekt: WordPress-Plugin in PHP & JS zur Automatisierung von Website-Prozessen. | PHP · JS · WordPress · XAMPP · MySQL | – |
-| ❌ | 🧩 **Fun HTML (alt)** | Alte Frontend-Spielereien, nicht weiterentwickelt. | HTML · CSS | – |
+| Status | Projekt | Beschreibung | Tech-Stack | Link |
+|:------:|---------|--------------|------------|------|
+| ✔️ | BirthdaySchatz | Kleine interaktive Geburtstag-App mit Animationen und Mini-Spiel. | Kotlin · Jetpack Compose | https://github.com/ALex83-r0ck/BirthdaySchatz |
+| ✔️ | Abby | Kleines visuelles für meine 5 jährige Tochter. | Python · Pygame | https://github.com/ALex83-r0ck/Abby |
+| ✔️ | Ozzy Tribute Page | Lokale statische Website mit Zitaten, kleinen Spielereien und Quiz. | HTML · CSS · JS | https://github.com/ALex83-r0ck/Tribute-to-Ozzy-Osbourne |
+| ✔️ | Fun HTML | Frontend-Experimente zum Lernen und Ausprobieren. | HTML · CSS · JS | – |
+| 🛠️ | DeerSecure | Tool zur Malware-Analyse (Erkennen, Quarantäne, Logging). | Python · KivyMD | https://github.com/ALex83-r0ck/DeerSecure |
+| 🛠️ | Dashboard | Zentrales Tool zur Organisation meiner Umschulung und Projekte. | Python · KivyMD · SQLite | https://github.com/ALex83-r0ck/Dashboard |
+| 🛠️ | Bewerbungsautomator | Tool zur Stellensuche und Bewerbungsvorbereitung. | Python · Selenium · BS4 | https://github.com/ALex83-r0ck/Bewerbungsautomator |
+| 🛠️ | VibeVault | Tracker-App mit Statistiken und Fortschrittssystem. | Kotlin · Jetpack Compose | https://github.com/ALex83-r0ck/Vibe-Vault |
+| 🛠️ | Pax-Mantis | Unterstützungs-App bei Angst/Panik mit Übungen & Tools. | Kotlin · Jetpack Compose | https://github.com/ALex83-r0ck/Pax-Mantis |
+| 🛠️ | LernBuddy | Tool zum Lernen und Erstellen von Fragen für die AP2. | Python · KivyMD | https://github.com/ALex83-r0ck/Lernbuddy |
+| 🛠️ | Protokolli | Automatisches Lärmprotokoll mit PDF-Export & Diagrammen. | Python · KivyMD · ReportLab | https://github.com/ALex83-r0ck/Protolkoli |
+| 🚧 | IHK-Abschlussprojekt (WordPress Plugin) | Geplantes Abschlussprojekt zur Automatisierung in WordPress. | PHP · JS · MySQL | – |
 
+---
 
+## Tech-Stack
 
-## 🧰 Tech Stack
+**Sprachen:**  
+Python, Kotlin, PHP, JavaScript
 
-**Sprachen & Frameworks:**  
-🐍 Python · ☕ Kotlin · 🐘 PHP · ⚡ JavaScript  
-
-**Markup & Styling:**
-🌐 HTML · 🎨 CSS · 
+**Frontend:**  
+HTML, CSS  
 
 **Frameworks & Tools:**  
-🧩 Kivy/KivyMD · 🧱 Jetpack Compose · 🧠 TensorFlow · 🔥 PyTorch · ⚙️ Flask · 🪶 Bootstrap  
+Kivy/KivyMD, Jetpack Compose, XAMPP, WordPress
 
-**Web & Backend:**  
-🖥️ XAMPP · 🌍 WordPress · 🗄️ SQLite · 🧰 REST APIs  
+**Datenbanken:**  
+SQLite, MySQL  
 
-**Weitere Skills:**  
-📊 ReportLab · 🧮 Matplotlib · 🤖 OpenAI API · 🔐 Security/Scraping (Selenium, BeautifulSoup)
-
----
-
-## 🤝 Zusammenarbeit
-
-Ich bin offen für spannende Projekte in den Bereichen **Python**, **Kotlin**, **PHP**, **KI/ML** oder **Webentwicklung**.  
-Ob Open Source, Startup oder Lernprojekt – ich bin dabei! 😄  
-
-> 💡 **Besonders interessiert bin ich an Projekten, die KI-Modelle in Apps integrieren oder interaktive Benutzeroberflächen mit praktischem Nutzen schaffen.**
+**Sonstiges:**  
+ReportLab, Matplotlib, Snyk-Analysen, API-Integration, Debugging, Selenium
 
 ---
 
-## 📫 Kontakt
+## Kontakt
 
-| Plattform | Link |
-|------------|------|
-| 💼 **LinkedIn** | [Alexander Rothe](https://www.linkedin.com/in/alexander-rothe-84ab112b6/) |
-| 🧑‍💻 **GitHub** | [ALex83-r0ck](https://github.com/ALex83-r0ck) |
-| ✉️ **E-Mail** | [rothe_alexander@t-online.de](mailto:rothe_alexander@t-online.de) |
+- GitHub: https://github.com/ALex83-r0ck  
+- LinkedIn: https://www.linkedin.com/in/alexander-rothe-84ab112b6/  
+- E-Mail: rothe_alexander@t-online.de  
 
 ---
 
-## 🌍 English Version
+## Short english version
 
-Hi, I'm **Alexander Rothe**,  
-an application developer apprentice passionate about **Python**, **Kotlin**, **PHP**, and **AI**.  
-
-### 🧩 Projects Overview
-
-| Status | Project | Description |
-|:------:|----------|--------------|
-| ✅ | 🎂 BirthdaySchatz | Interactive birthday app with animations and game. |
-| ✅ | 🕶️ Ozzy Tribute Page | Local tribute site for Ozzy Osbourne with quotes, quiz & YouTube links. |
-| ⚙️ | 🧠 Bewerbungsautomator | Semi-automated job application tool with scraping & auto templates. |
-| ⚙️ | 🎧 VibeVault | Nicotine consumption tracker with gamification & AI integration. |
-| 🚧 | 🧱 IHK Final Project | WordPress plugin built in PHP & JS for automation tasks. |
-
----
-
-### 🧠 Skills
-Python · Kotlin · PHP · WordPress · HTML/CSS/JS · KivyMD · Jetpack Compose · Flask · TensorFlow · PyTorch · XAMPP  
-
-📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/alexander-rothe) | [Email](mailto:rothe_alexander@t-online.de)
-
----
-
-*Letzte Aktualisierung: Oktober 2025*  
-*Freue mich auf gemeinsame Projekte! 🚀*
-
----
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?logo=android&logoColor=white)
-![KivyMD](https://img.shields.io/badge/KivyMD-3DDC84?logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+Hi, I’m Alexander — an aspiring application developer from Germany, currently finishing my training. I work with Python, Kotlin, PHP and small web projects. Most of my repositories are learning projects I built to understand concepts and improve my skills step by step.  
+Feel free to reach out or explore my repos.
