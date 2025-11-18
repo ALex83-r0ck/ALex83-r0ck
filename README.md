@@ -43,6 +43,7 @@ Eine Sammlung meiner bisherigen Arbeiten. Vieles sind Lern- oder Praxisprojekte,
 | ✔️ | Abby | Kleines visuelles für meine 5 jährige Tochter. | Python · Pygame | https://github.com/ALex83-r0ck/Abby |
 | ✔️ | Ozzy Tribute Page | Lokale statische Website mit Zitaten, kleinen Spielereien und Quiz. | HTML · CSS · JS | https://github.com/ALex83-r0ck/Tribute-to-Ozzy-Osbourne |
 | ✔️ | Fun HTML | Frontend-Experimente zum Lernen und Ausprobieren. | HTML · CSS · JS | – |
+| ✔️ | Nirvana Tribute | WordPress Lernprojekt mit Formular, Nav, YouTube einbindungen | WordPress | – |
 | 🛠️ | DeerSecure | Tool zur Malware-Analyse (Erkennen, Quarantäne, Logging). | Python · KivyMD | https://github.com/ALex83-r0ck/DeerSecure |
 | 🛠️ | Dashboard | Zentrales Tool zur Organisation meiner Umschulung und Projekte. | Python · KivyMD · SQLite | https://github.com/ALex83-r0ck/Dashboard |
 | 🛠️ | Bewerbungsautomator | Tool zur Stellensuche und Bewerbungsvorbereitung. | Python · Selenium · BS4 | https://github.com/ALex83-r0ck/Bewerbungsautomator |
