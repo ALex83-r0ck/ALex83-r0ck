@@ -64,7 +64,7 @@ Python, Kotlin, PHP, JavaScript
 HTML, CSS  
 
 **Frameworks & Tools:**  
-Kivy/KivyMD, Jetpack Compose, XAMPP, WordPress
+Kivy/KivyMD, Jetpack Compose, XAMPP, WordPress(Themes/Plugins)
 
 **Datenbanken:**  
 SQLite, MySQL  
