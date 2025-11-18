@@ -70,7 +70,7 @@ Kivy/KivyMD, Jetpack Compose, XAMPP, WordPress(Themes/Plugins)
 SQLite, MySQL  
 
 **Sonstiges:**  
-ReportLab, Matplotlib, Snyk-Analysen, API-Integration, Debugging, Selenium
+ReportLab, Matplotlib, **Snyk-Analysen**, API-Integration, Debugging, Selenium
 
 ---
 
