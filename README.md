@@ -50,7 +50,7 @@ Eine Sammlung meiner bisherigen Arbeiten. Vieles sind Lern- oder Praxisprojekte,
 | 🛠️ | VibeVault | Tracker-App mit Statistiken und Fortschrittssystem. | Kotlin · Jetpack Compose | https://github.com/ALex83-r0ck/Vibe-Vault |
 | 🛠️ | Pax-Mantis | Unterstützungs-App bei Angst/Panik mit Übungen & Tools. | Kotlin · Jetpack Compose | https://github.com/ALex83-r0ck/Pax-Mantis |
 | 🛠️ | LernBuddy | Tool zum Lernen und Erstellen von Fragen für die AP2. | Python · KivyMD | https://github.com/ALex83-r0ck/Lernbuddy |
-| 🛠️ | Protokolli | Automatisches Lärmprotokoll mit PDF-Export & Diagrammen. | Python · KivyMD · ReportLab | https://github.com/ALex83-r0ck/Protolkoli |
+| 🛠️ | Miet-StörungsProtokoll | semi-automatisches Protokollierungs Desktop Anwendung zum Erstellen, Verwalten von allerlei Störungen in einem Mietverhältnis mit PDF-Export & Diagrammen. | Python · KivyMD · ReportLab | https://github.com/ALex83-r0ck/Protolkoli |
 | 🚧 | IHK-Abschlussprojekt (WordPress Plugin) | Geplantes Abschlussprojekt zur Automatisierung in WordPress. | PHP · JS · MySQL | – |
 
 ---
