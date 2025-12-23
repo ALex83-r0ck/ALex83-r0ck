@@ -6,9 +6,11 @@ Programmieren begleitet mich schon seit 2008 – meine ersten Schritte habe ich 
 
 Nach privaten Umwegen habe ich von 2023 bis 2025 eine intensive Umschulung zur Anwendungsentwicklung absolviert. Das hat mir fundierte Grundlagen in Softwarearchitektur, Projektarbeit und systematischem Entwickeln vermittelt – und mir den Wiedereinstieg erleichtert.
 
+Während der Umschulung habe ich ein mehrwöchiges Remote-Praktikum in einem Systemhaus in Baden-Baden absolviert. Dort habe ich erste reale Erfahrungen in einem professionellen IT-Umfeld gesammelt, remote gearbeitet und gelernt, wie Teams auf Distanz zusammenarbeiten.
+
 Parallel dazu (und oft nebenher) habe ich kontinuierlich an eigenen Projekten gearbeitet: Von Python-Tools über Kotlin-Apps bis hin zu KI-Integrationen wie Ollama in LernBuddy. Hier lerne ich am meisten – durch Ausprobieren, Google, YouTube, StackOverflow und eine Menge Geduld.
 
-Ich liebe es, Ideen auszuarbeiten, Prototypen zu bauen und mich technisch weiterzuentwickeln. Praktische Lösungen zu schaffen, die Probleme lösen oder Abläufe vereinfachen, motiviert mich am meisten.
+Ich liebe es, Ideen umzusetzen, Prototypen zu bauen und mich technisch weiterzuentwickeln. Praktische Lösungen zu schaffen, die Probleme lösen oder Abläufe vereinfachen, motiviert mich am meisten.
 ---
 
 ## Interessen
