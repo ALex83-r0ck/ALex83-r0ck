@@ -1,4 +1,4 @@
-# Alexander Rothe – Quereinsteiger Softwareentwickler - Appy, Web & KI-Integration (Python, Kotlin, Ollama/LLMs) | Offen für Junior Positionen (remote/EU)
+# Alexander Rothe – Quereinsteiger Softwareentwickler (Umschulung 2023-2025) - Appy, Web & KI-Integration (Python, Kotlin, Ollama/LLMs) | Offen für Junior Positionen (remote/EU)
 
 Hallo, ich bin Alex.
 
@@ -54,7 +54,6 @@ Eine Sammlung meiner bisherigen Arbeiten. Vieles sind Lern- oder Praxisprojekte,
 | 🛠️ | Pax-Mantis | Unterstützungs-App bei Angst/Panik mit Übungen & Tools. | Kotlin · Jetpack Compose | https://github.com/ALex83-r0ck/Pax-Mantis |
 | 🛠️ | LernBuddy | Tool zum Lernen und Erstellen von Fragen für die AP2. | Python · KivyMD | https://github.com/ALex83-r0ck/Lernbuddy |
 | 🛠️ | Miet-StörungsProtokoll | semi-automatisches Protokollierungs Desktop Anwendung zum Erstellen, Verwalten von allerlei Störungen in einem Mietverhältnis mit PDF-Export & Diagrammen. | Python · KivyMD · ReportLab | https://github.com/ALex83-r0ck/Protolkoli |
-| 🚧 | IHK-Abschlussprojekt (WordPress Plugin) | Geplantes Abschlussprojekt zur Automatisierung in WordPress. | PHP · JS · MySQL | – |
 
 ---
 
@@ -87,5 +86,5 @@ ReportLab, Matplotlib, **Snyk-Analysen**, API-Integration, Debugging, Selenium
 
 ## Short english version
 
-Hi, I’m Alexander — an aspiring application developer from Germany, currently finishing my training. I work with Python, Kotlin, PHP and small web projects. Most of my repositories are learning projects I built to understand concepts and improve my skills step by step.  
-Feel free to reach out or explore my repos.
+Hi, I’m Alexander – a self-driven software developer from Germany, specializing in apps, web, and KI integration. With a background in Python since 2008, I’ve built practical projects in Python, Kotlin and modern tools like Ollama for local LLMs. My repos are hands-on experiments to solve real problems and grow my skills.  
+Open for junior roles (remote/EU). Feel free to reach out or explore my work!
