@@ -1,11 +1,14 @@
-# Alexander Rothe – angehender Fachinformatiker für Anwendungsentwicklung
+# Alexander Rothe – Quereinsteiger Softwareentwickler - Appy, Web & KI-Integration (Python, Kotlin, Ollama/LLMs) | Offen für Junior Positionen (remote/EU)
 
-Hallo, ich bin Alex.  
-Ich stehe kurz vor dem Abschluss meiner Umschulung zum Fachinformatiker für Anwendungsentwicklung. Programmieren begleitet mich allerdings schon viel länger: 2008 habe ich meine ersten Schritte mit Python gemacht – damals noch mit einem Buch von Galileo Computing und einer Mischung aus Python 2 und 3. Mein Englisch war noch nicht besonders, Foren kannte ich kaum, und irgendwann bin ich an einer Stelle einfach hängen geblieben. Trotzdem hat mich das Thema nie losgelassen.
+Hallo, ich bin Alex.
 
-Nach einigen privaten Umwegen bin ich seit zwei Jahren wieder voll eingestiegen. Seitdem arbeite ich kontinuierlich an Projekten, lerne und verstehe jeden Tag mehr und baue mir so Schritt für Schritt meinen eigenen Werkzeugkasten auf. Vieles mache ich selbst, manches lerne ich im Austausch – und manchmal braucht es einfach Google, YouTube, Dokus und StackOverflow dazu eine menge Geduld.  
-Ich mag es, Ideen auszuarbeiten, Prototypen zu bauen und mich technisch weiterzuentwickelen.
+Programmieren begleitet mich schon seit 2008 – meine ersten Schritte habe ich mit Python gemacht, inspiriert von einem Buch von Galileo Computing und einer Mischung aus Python 2 und 3. Mein Englisch war noch nicht stark, Foren kaum bekannt, und irgendwann bin ich hängen geblieben. Aber das Thema hat mich nie losgelassen.
 
+Nach privaten Umwegen habe ich von 2023 bis 2025 eine intensive Umschulung zur Anwendungsentwicklung absolviert. Das hat mir fundierte Grundlagen in Softwarearchitektur, Projektarbeit und systematischem Entwickeln vermittelt – und mir den Wiedereinstieg erleichtert.
+
+Parallel dazu (und oft nebenher) habe ich kontinuierlich an eigenen Projekten gearbeitet: Von Python-Tools über Kotlin-Apps bis hin zu KI-Integrationen wie Ollama in LernBuddy. Hier lerne ich am meisten – durch Ausprobieren, Google, YouTube, StackOverflow und eine Menge Geduld.
+
+Ich liebe es, Ideen auszuarbeiten, Prototypen zu bauen und mich technisch weiterzuentwickeln. Praktische Lösungen zu schaffen, die Probleme lösen oder Abläufe vereinfachen, motiviert mich am meisten.
 ---
 
 ## Interessen
