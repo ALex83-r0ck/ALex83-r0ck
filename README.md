@@ -35,7 +35,7 @@ Ich baue nicht einfach irgendwas zusammen, sondern arbeite mich in Themen rein u
 - WordPress-Entwicklung und PHP  
 - Debugging-Strategien, Softwarestruktur und sauberes Arbeiten  
 - Grundlagen von Machine Learning – Schritt für Schritt, ohne Hype  
-
+- AI-assisted Development mit Tools wie GitHub Copilot, Grok (xAI), Claude und ChatGPT – für Code-Generierung, Refactoring, Erklärungen und Ideenfindung
 ---
 
 ## Projekte (Auswahl)
@@ -74,7 +74,7 @@ Kivy/KivyMD, Jetpack Compose, XAMPP, WordPress(Themes/Plugins)
 SQLite, MySQL  
 
 **Sonstiges:**  
-ReportLab, Matplotlib, **Snyk-Analysen**, API-Integration, Debugging, Selenium
+ReportLab, Matplotlib, **Snyk-Analysen**, API-Integration, Debugging, Selenium, **GitHub Copilot, Grok, Claude, ChatGPT (AI-assisted Coding)**
 
 ---
 
@@ -88,5 +88,10 @@ ReportLab, Matplotlib, **Snyk-Analysen**, API-Integration, Debugging, Selenium
 
 ## Short english version
 
-Hi, I’m Alexander – a self-driven software developer from Germany, specializing in apps, web, and KI integration. With a background in Python since 2008, I’ve built practical projects in Python, Kotlin and modern tools like Ollama for local LLMs. My repos are hands-on experiments to solve real problems and grow my skills.  
+Hi, I’m Alex – a self-driven software developer from Germany, specializing in apps, web, and AI integration.
+
+With a background in Python since 2008 and an intensive IT retraining (2023–2025) – including remote practical experience in a system house – I’ve built hands-on projects using Kotlin, PHP, and modern tools like Ollama for local LLMs.
+
+I actively use AI-assisted development tools such as GitHub Copilot, Grok (xAI), Claude, and ChatGPT for code generation, refactoring, debugging, idea finding, and deep dives – keeping my workflow efficient and up-to-date.
+
 Open for junior roles (remote/EU). Feel free to reach out or explore my work!
