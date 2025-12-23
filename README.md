@@ -1,4 +1,4 @@
-# Alexander Rothe – Quereinsteiger Softwareentwickler (Umschulung 2023-2025) - Appy, Web & KI-Integration (Python, Kotlin, Ollama/LLMs) | Offen für Junior Positionen (remote/EU)
+# Alexander Rothe – Quereinsteiger Softwareentwickler (Umschulung 2023-2025) - App, Web & KI-Integration (Python, Kotlin, Ollama/LLMs) | Offen für Junior Positionen (remote/EU)
 
 Hallo, ich bin Alex.
 
@@ -52,7 +52,7 @@ Eine Sammlung meiner bisherigen Arbeiten. Vieles sind Lern- oder Praxisprojekte,
 | 🛠️ | Bewerbungsautomator | Tool zur Stellensuche und Bewerbungsvorbereitung. | Python · Selenium · BS4 | https://github.com/ALex83-r0ck/Bewerbungsautomator |
 | 🛠️ | VibeVault | Tracker-App mit Statistiken und Fortschrittssystem. | Kotlin · Jetpack Compose | https://github.com/ALex83-r0ck/Vibe-Vault |
 | 🛠️ | Pax-Mantis | Unterstützungs-App bei Angst/Panik mit Übungen & Tools. | Kotlin · Jetpack Compose | https://github.com/ALex83-r0ck/Pax-Mantis |
-| 🛠️ | LernBuddy | Tool zum Lernen und Erstellen von Fragen für die AP2. | Python · KivyMD | https://github.com/ALex83-r0ck/Lernbuddy |
+| 🛠️ | LernBuddy | Allgemeines Lern-Tool mit KI-Potential. | Python · KivyMD | https://github.com/ALex83-r0ck/Lernbuddy |
 | 🛠️ | Miet-StörungsProtokoll | semi-automatisches Protokollierungs Desktop Anwendung zum Erstellen, Verwalten von allerlei Störungen in einem Mietverhältnis mit PDF-Export & Diagrammen. | Python · KivyMD · ReportLab | https://github.com/ALex83-r0ck/Protolkoli |
 
 ---
@@ -78,7 +78,7 @@ ReportLab, Matplotlib, **Snyk-Analysen**, API-Integration, Debugging, Selenium
 
 ## Kontakt
 
-- GitHub: https://github.com/ALex83-r0ck  
+- Portfolio: https://ALex83-r0ck.github.io 
 - LinkedIn: https://www.linkedin.com/in/alexander-rothe-84ab112b6/  
 - E-Mail: rothe_alexander@t-online.de  
 
