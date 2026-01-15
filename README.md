@@ -61,8 +61,10 @@ Eine Sammlung meiner bisherigen Arbeiten. Vieles sind Lern- oder Praxisprojekte,
 
 ## Tech-Stack
 
-**Sprachen:**  
-Python, Kotlin, PHP, JavaScript
+**Sprachen:**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), 
+Kotlin, PHP, JavaScript
 
 **Frontend:**  
 HTML, CSS  
