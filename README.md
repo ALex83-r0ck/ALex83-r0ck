@@ -1,4 +1,4 @@
-# Alexander Rothe – Quereinsteiger Softwareentwickler - App, Web & KI-Integration (Python, Kotlin, Ollama/LLMs) | Offen für Junior Positionen (remote/EU)
+# Alexander Rothe – Junior Softwareentwickler - App, Web & KI-Integration (Python, Kotlin, Ollama/LLMs) | Offen für Junior Positionen (remote/EU)
 
 Hallo, ich bin Alex.
 
