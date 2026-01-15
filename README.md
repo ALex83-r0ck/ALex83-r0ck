@@ -87,6 +87,15 @@ ReportLab, Matplotlib, **Snyk-Analysen**, API-Integration, Debugging, Selenium
 - **DevOps/Tools:** Selenium (Automation), Snyk (Security), Git/GitHub
 ---
 
+## 📈 Über mich & Meine Vision
+
+- 🔭 **Aktueller Fokus:** Tiefe Einarbeitung in **Machine Learning Grundlagen** und **Software-Architektur**.
+- 💡 **Stärke:** Ich baue Prototypen, die echte Probleme lösen (von der Miet-Störungs-Protokollierung bis zur Angst-Bewältigung).
+- 🌍 **Arbeitsweise:** Erfahren in **Remote-Work** und agiler Zusammenarbeit.
+- 🌱 **Mindset:** "Code ist Mittel zum Zweck" – Ich liebe es, komplexe Abläufe durch smarte Software zu vereinfachen.
+
+---
+
 ## Kontakt
 
 - Portfolio: https://ALex83-r0ck.github.io 
