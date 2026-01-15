@@ -64,20 +64,27 @@ Eine Sammlung meiner bisherigen Arbeiten. Vieles sind Lern- oder Praxisprojekte,
 **Sprachen:**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), 
-Kotlin, PHP, JavaScript
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB1.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 **Frontend:**  
 HTML, CSS  
 
 **Frameworks & Tools:**  
-Kivy/KivyMD, Jetpack Compose, XAMPP, WordPress(Themes/Plugins)
-
-**Datenbanken:**  
-SQLite, MySQL  
+![Kivy](https://img.shields.io/badge/Kivy-333333?style=flat-square&logo=python&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=android&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%2321759b.svg?style=flat-square&logo=wordpress&logoColor=white)
+XAMPP,
 
 **Sonstiges:**  
-ReportLab, Matplotlib, **Snyk-Analysen**, API-Integration, Debugging, Selenium, **GitHub Copilot, Grok, Claude, ChatGPT (AI-assisted Coding)**
+ReportLab, Matplotlib, **Snyk-Analysen**, API-Integration, Debugging, Selenium
 
+**AI & Workflow:**
+- **Local LLMs:** Ollama Integration
+- **AI-Assisted:** GitHub Copilot, Claude, Grok, ChatGPT
+- **DevOps/Tools:** Selenium (Automation), Snyk (Security), Git/GitHub
 ---
 
 ## Kontakt
