@@ -1,4 +1,4 @@
-# Alexander Rothe – Junior Softwareentwickler - App, Web & KI-Integration (Python, Kotlin, Ollama/LLMs) | Offen für Junior Positionen (remote/EU)
+# Alexander Rothe – Fachinformatiker Anwendungsentwicklung| AI & LLM Developer | RAG Solution | Python & Kotlin Entushiast | Offen für Junior Positionen (remote/EU)
 
 Hallo, ich bin Alex.
 
