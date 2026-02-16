@@ -1,115 +1,103 @@
-# Alexander Rothe – Fachinformatiker Anwendungsentwicklung| AI & LLM Developer | RAG Solution | Python & Kotlin Entushiast | Offen für Junior Positionen (remote/EU)
+# Alexander Rothe – Softwarelösungen mit Weitblick
+## Smart Automation | Applied AI & Local LLMs | Python & Kotlin Experte
 
-Hallo, ich bin Alex.
+Ich verbinde **15 Jahre fundierte Industrie-Expertise** mit moderner Software-Architektur. Mein Fokus liegt nicht auf "Codeschnipseln", sondern auf der Entwicklung sicherer, skalierbarer Systeme, die reale Geschäftsprozesse optimieren.
 
-Programmieren begleitet mich schon seit 2008 – meine ersten Schritte habe ich mit Python gemacht, inspiriert von einem Buch von Galileo Computing und einer Mischung aus Python 2 und 3. Mein Englisch war noch nicht stark, Foren kaum bekannt, und irgendwann bin ich hängen geblieben. Aber das Thema hat mich nie losgelassen.
-
-Nach privaten Umwegen habe ich von 2023 bis 2025 eine intensive Umschulung zur Anwendungsentwicklung absolviert. Das hat mir fundierte Grundlagen in Softwarearchitektur, Projektarbeit und systematischem Entwickeln vermittelt – und mir den Wiedereinstieg erleichtert.
-
-Während der Umschulung habe ich ein 8 monatiges Remote-Praktikum in einem Systemhaus in Baden-Baden absolviert. Dort habe ich erste reale Erfahrungen in einem professionellen IT-Umfeld gesammelt, remote gearbeitet und gelernt, wie Teams auf Distanz zusammenarbeiten.
-
-Parallel dazu (und oft nebenher) habe ich kontinuierlich an eigenen Projekten gearbeitet: Von Python-Tools über Kotlin-Apps bis hin zu KI-Integrationen wie Ollama in LernBuddy. Hier lerne ich am meisten – durch Ausprobieren, Google, YouTube, StackOverflow und eine Menge Geduld.
-
-Ich liebe es, Ideen umzusetzen, Prototypen zu bauen und mich technisch weiterzuentwickeln. Praktische Lösungen zu schaffen, die Probleme lösen oder Abläufe vereinfachen, motiviert mich am meisten.
----
-
-## Interessen
-
-Ich bewege mich gerne zwischen App-Entwicklung, Webprojekten und Python-Tools.  
-Schwerpunktmäßig arbeite ich aktuell an:
-
-- Python-Anwendungen (Kivy/KivyMD, kleine Tools, Helfer-Scripts)  
-- Android-Apps mit Kotlin und Jetpack Compose  
-- Webprojekten mit HTML, CSS, JavaScript sowie PHP, WordPress(Hooks, CPTs)  
-- Software, die Probleme löst oder Abläufe vereinfacht  
-
-Mir ist wichtig, Projekte wirklich zu verstehen – Architektur, Struktur, Debugging, Fehleranalyse.  
-Ich baue nicht einfach irgendwas zusammen, sondern arbeite mich in Themen rein und lerne dabei ständig dazu.
+**Spezialisierung Applied AI:** Ich implementiere lokale Sprachmodelle (Ollama/Llama/Mistral) in produktive Umgebungen – für maximale Performance und 100% Datenschutz ohne Cloud-Abhängigkeit.
 
 ---
 
-## Was ich gerade lerne
-
-- Python (von Grundlagen bis Architektur)  
-- Android-Entwicklung mit Kotlin und Compose  
-- WordPress-Entwicklung und PHP  
-- Debugging-Strategien, Softwarestruktur und sauberes Arbeiten  
-- Grundlagen von Machine Learning – Schritt für Schritt, ohne Hype  
-- AI-assisted Development mit Tools wie GitHub Copilot, Grok (xAI), Claude und ChatGPT – für Code-Generierung, Refactoring, Erklärungen und Ideenfindung
----
-
-## Projekte (Auswahl)
-
-Eine Sammlung meiner bisherigen Arbeiten. Vieles sind Lern- oder Praxisprojekte, einige nutze ich im Alltag selbst.
-
-| Status | Projekt | Beschreibung | Tech-Stack | Link |
-|:------:|---------|--------------|------------|------|
-| ✔️ | BirthdaySchatz | Kleine interaktive Geburtstag-App mit Animationen und Mini-Spiel. | Kotlin · Jetpack Compose | https://github.com/ALex83-r0ck/BirthdaySchatz |
-| ✔️ | Abby | Kleines visuelles für meine 5 jährige Tochter. | Python · Pygame | https://github.com/ALex83-r0ck/Abby |
-| ✔️ | Ozzy Tribute Page | Lokale statische Website mit Zitaten, kleinen Spielereien und Quiz. | HTML · CSS · JS | https://github.com/ALex83-r0ck/Tribute-to-Ozzy-Osbourne |
-| ✔️ | Fun HTML | Frontend-Experimente zum Lernen und Ausprobieren. | HTML · CSS · JS | – |
-| ✔️ | Nirvana Tribute | WordPress Lernprojekt mit Formular, Nav, YouTube einbindungen | WordPress | – |
-| 🛠️ | DeerSecure | Tool zur Malware-Analyse (Erkennen, Quarantäne, Logging). | Python · KivyMD | https://github.com/ALex83-r0ck/DeerSecure |
-| 🛠️ | Dashboard | Zentrales Tool zur Organisation meiner Umschulung und Projekte. | Python · KivyMD · SQLite | https://github.com/ALex83-r0ck/Dashboard |
-| 🛠️ | Bewerbungsautomator | Tool zur Stellensuche und Bewerbungsvorbereitung. | Python · Selenium · BS4 | https://github.com/ALex83-r0ck/Bewerbungsautomator |
-| 🛠️ | VibeVault | Tracker-App mit Statistiken und Fortschrittssystem. | Kotlin · Jetpack Compose | https://github.com/ALex83-r0ck/Vibe-Vault |
-| 🛠️ | Pax-Mantis | Unterstützungs-App bei Angst/Panik mit Übungen & Tools. | Kotlin · Jetpack Compose | https://github.com/ALex83-r0ck/Pax-Mantis |
-| 🛠️ | LernBuddy | Allgemeines Lern-Tool mit KI-Potential. | Python · KivyMD | https://github.com/ALex83-r0ck/Lernbuddy |
-| 🛠️ | Miet-StörungsProtokoll | semi-automatisches Protokollierungs Desktop Anwendung zum Erstellen, Verwalten von allerlei Störungen in einem Mietverhältnis mit PDF-Export & Diagrammen. | Python · KivyMD · ReportLab | https://github.com/ALex83-r0ck/Protolkoli |
+### 🛡️ Warum ich? (Der Senior-Vorteil)
+- **Erfahrung, die zählt:** 15 Jahre in Logistik & Produktion bedeuten: Ich verstehe wirtschaftliche Abläufe, übernehme Verantwortung und brauche keine Grundausbildung in Arbeitsmethodik.
+- **Security-First:** Als ISC2 Certified Cybersecurity Candidate entwickle ich Software mit Blick auf Datensicherheit und DSGVO-Konformität.
+- **Pragmatismus:** Ich baue keine Spielereien, sondern Lösungen. Von der Prozessautomatisierung mit Python bis zu performanten Apps mit Kotlin.
 
 ---
 
-## Tech-Stack
+### 🚀 Fokus-Projekte
 
-**Sprachen:**
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB1.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-**Frontend:**  
-HTML, CSS  
-
-**Frameworks & Tools:**  
-![Kivy](https://img.shields.io/badge/Kivy-333333?style=flat-square&logo=python&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=android&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%2321759b.svg?style=flat-square&logo=wordpress&logoColor=white)
-XAMPP,
-
-**Sonstiges:**  
-ReportLab, Matplotlib, **Snyk-Analysen**, API-Integration, Debugging, Selenium
-
-**AI & Workflow:**
-- **Local LLMs:** Ollama Integration
-- **AI-Assisted:** GitHub Copilot, Claude, Grok, ChatGPT
-- **DevOps/Tools:** Selenium (Automation), Snyk (Security), Git/GitHub
----
-
-## 📈 Über mich & Meine Vision
-
-- 🔭 **Aktueller Fokus:** Tiefe Einarbeitung in **Machine Learning Grundlagen** und **Software-Architektur**.
-- 💡 **Stärke:** Ich baue Prototypen, die echte Probleme lösen (von der Miet-Störungs-Protokollierung bis zur Angst-Bewältigung).
-- 🌍 **Arbeitsweise:** Erfahren in **Remote-Work** und agiler Zusammenarbeit.
-- 🌱 **Mindset:** "Code ist Mittel zum Zweck" – Ich liebe es, komplexe Abläufe durch smarte Software zu vereinfachen.
+| Projekt | Kern-Nutzen | Tech-Stack | Status |
+|:--------|:------------|:-----------|:-------|
+| **[Lead-Dojo](https://github.com/ALex83-r0ck/Lead-Dojo)** | **Hybrid RAG System** zur autarken Datenanalyse mittels lokaler LLMs. | Python, Ollama, ChromaDB | 🛠️ In Entwicklung |
+| **[Miet-Protokoll](https://github.com/ALex83-r0ck/Protolkoli)** | Automatisierung rechtssicherer Dokumentation mit PDF-Export & Analyse. | Python, KivyMD, SQLite | ✔️ Produktiv |
+| **[DeerSecure](https://github.com/ALex83-r0ck/DeerSecure)** | Tool zur Malware-Analyse und Quarantäne-Logging. | Python, Snyk, KivyMD | 🛠️ In Entwicklung |
+| **[VibeVault](https://github.com/ALex83-r0ck/Vibe-Vault)** | Performance-Tracker mit Fokus auf UX, Statistik und Gamification. | Kotlin, Jetpack Compose | 🛠️ In Entwicklung |
 
 ---
 
-## Kontakt
+### 🛠️ Tech-Stack & Kompetenzen
 
-- Portfolio: https://ALex83-r0ck.github.io 
-- LinkedIn: https://www.linkedin.com/in/alexander-rothe-84ab112b6/  
-- E-Mail: rothe_alexander@t-online.de  
+- **Backend & Automatisierung:** Python (Expertise in AsyncIO, Selenium, MLOps)
+- **Mobile Entwicklung:** Kotlin (Jetpack Compose, Lottie, Material 3 Design)
+- **KI & Daten:** Local LLMs (Ollama Integration), RAG Workflows, Vector Databases
+- **Security & Methodik:** ISC2 Cybersecurity Principles, Git-Flow (Conventional Commits), Snyk Security Analysis
+- **Web-Technologien:** PHP, WordPress (Custom Architecture), JavaScript, CSS3/HTML5
 
 ---
 
-## Short english version
+### 📈 Status & Vision
+- 🔭 **Aktueller Fokus:** Implementierung von Reasoning-Chains für lokale KI-Agenten.
+- ⚡ **Verfügbarkeit:** Einsatzbereit für anspruchsvolle Aufgaben im Bereich Softwareentwicklung & Automatisierung (Remote/Hybrid).
+- 🌱 **Mindset:** "Software ist ein Werkzeug zur Wertschöpfung." Ich liefere Ergebnisse ab dem ersten Tag.
 
-Hi, I’m Alex – a self-driven software developer from Germany, specializing in apps, web, and AI integration.
+---
 
-With a background in Python since 2008 and an intensive IT retraining (2023–2025) – including remote practical experience in a system house – I’ve built hands-on projects using Kotlin, PHP, and modern tools like Ollama for local LLMs.
+### 📫 Kontakt
+- **Portfolio:** [alexander-rothe.de](https://ALex83-r0ck.github.io)
+- **LinkedIn:** [Alexander Rothe](https://www.linkedin.com/in/alexander-rothe-84ab112b6/)
+- **E-Mail:** rothe_alexander@t-online.de
 
-I actively use AI-assisted development tools such as GitHub Copilot, Grok (xAI), Claude, and ChatGPT for code generation, refactoring, debugging, idea finding, and deep dives – keeping my workflow efficient and up-to-date.
+---
+*"Probleme sind Gelegenheiten in Arbeitskleidung. Ich baue die passenden Werkzeuge dafür."*
 
-Open for junior roles (remote/EU). Feel free to reach out or explore my work!
+## # Alexander Rothe – Software Solutions with Foresight
+## Smart Automation | Applied AI & Local LLMs | Python & Kotlin Expert
+
+I bridge the gap between **15 years of industrial expertise** and modern software architecture. I don't just write code; I build secure, scalable systems that solve real-world business problems.
+
+**Expertise in Applied AI:** My focus lies in integrating local LLMs (Ollama/Llama/Mistral) into production-ready environments—ensuring maximum data privacy and performance without cloud dependency.
+
+---
+
+### 🛡️ Why work with me?
+- **Senior Mindset:** 15 years in production & logistics means I understand business processes, stakeholder communication, and reliability.
+- **Security-First:** ISC2 Certified Cybersecurity candidate—I build software with a focus on data integrity and GDPR compliance.
+- **Problem Solver:** From process automation with Python to cross-platform mobile apps with Kotlin & Jetpack Compose.
+
+---
+
+### 🚀 Key Projects (Selection)
+
+| Project | Focus | Tech Stack | Status |
+|:--------|:------|:-----------|:-------|
+| **[Lead-Dojo](https://github.com/ALex83-r0ck/Lead-Dojo)** | **Hybrid RAG System** for autonomous data analysis using local LLMs. | Python, Ollama, ChromaDB | 🛠️ Active |
+| **[Miet-Protokoll](https://github.com/ALex83-r0ck/Protolkoli)** | Automation of legal documentation with PDF export & data visualization. | Python, KivyMD, SQLite | ✔️ Production |
+| **[DeerSecure](https://github.com/ALex83-r0ck/DeerSecure)** | Security-tool for malware analysis and quarantine logging. | Python, Snyk, KivyMD | 🛠️ Active |
+| **[VibeVault](https://github.com/ALex83-r0ck/Vibe-Vault)** | High-performance tracker with gamification and statistics. | Kotlin, Jetpack Compose | 🛠️ Active |
+
+---
+
+### 🛠️ Technical Stack
+
+- **Backend & Automation:** Python (Expertise in AsyncIO, Selenium, MLOps)
+- **Mobile Development:** Kotlin (Jetpack Compose, Lottie, Material 3)
+- **AI & Data:** Local LLMs (Ollama), RAG Workflows, Vector Databases
+- **Security & DevOps:** ISC2 Cybersecurity Principles, Git-Flow (Conventional Commits), Snyk
+- **Web:** PHP, WordPress (Hooks & Custom Architecture), JavaScript
+
+---
+
+### 📈 Stats & Focus
+- 🔭 **Currently working on:** Advanced Reasoning Chains for Local AI Agents.
+- ⚡ **The Senior Edge:** I don't need "basic training" in work ethics. I deliver results from day one.
+- 🌍 **Collaboration:** Expert in remote-work environments and agile workflows.
+
+---
+
+### 📫 Let's Connect
+- **Portfolio:** [alexander-rothe.de](https://ALex83-r0ck.github.io)
+- **LinkedIn:** [Alexander Rothe](https://www.linkedin.com/in/alexander-rothe-84ab112b6/)
+- **Email:** rothe_alexander@t-online.de
+
+---
+*"Software is a tool to optimize value chains. I build the right tools."*
