@@ -48,15 +48,33 @@ I bridge the gap between **15 years of industrial expertise** and modern softwar
 
 ---
 
-### 🛠️ Tech-Stack Summary
+## 🛠 Technical Ecosystem
 
-**Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB1.svg?style=flat-square&logo=php&logoColor=white)
+### 🤖 Applied AI & Data Science
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-white?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
+* **Focus:** Local LLM Integration, RAG (Retrieval Augmented Generation), Vector Databases, Prompt Engineering.
 
-**Core Tools:**
-* **AI:** Local LLM Integration (Ollama), RAG Workflows, AI-Assisted Dev (Copilot, Claude, Grok)
-* **Security:** ISC2 Principles, Snyk Analysis, Git-Flow
-* **Automation:** Selenium, BeautifulSoup, MLOps Basics
+### 🛡️ Security & DevOps
+![ISC2](https://img.shields.io/badge/ISC2_Candidate-004C46?style=for-the-badge&logo=icloud&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+* **Standards:** Conventional Commits, Security-by-Design, OWASP Principles.
 
+### 📱 Software Development
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB1.svg?style=for-the-badge&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%2321759b.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+* **Expertise:** Cross-Platform Apps (Kivy/Compose), Custom WordPress Architectures, Selenium Automation.
+
+### 🧠 AI-Assisted Workflow
+![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ---
 
 ### 📈 Contact & Connect
